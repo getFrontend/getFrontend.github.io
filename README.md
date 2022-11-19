@@ -1,11 +1,5 @@
-# app-simple-border-radius-generator
+# getFrontend projects on Github.io
 
-<img
-  src="app-sbrg-screenshot.png"
-  alt="border-radius generator"
-  title="Simple border-radius generator"
-  style="display: inline-block; margin: 0 auto; max-width: 1110px;">
-
-Simple CSS border-radius generator (SBRG v1.0). 
-
-This generator helps you to easily create some custom borders to you blocks, and copy CSS code to your Visual Studio editor.
+CSS generators:
+* [Simple border-radius generator](https://getfrontend.github.io/app-sbrg.html) has no title attribute.
+* Triangle generator
